@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ryan 👋
+
+I work at a company called Xplor 🚀 making software for educators.
+I spend my day doing React and Elixir mostly.
 
 <!--
 **moosch/moosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
