@@ -1,4 +1,4 @@
-![FP-JS](./fp-js.jpg)
+![FP-JS](https://github.com/moosch/moosch/blob/master/fp-js.jpg)
 
 ### Hi there, I'm Ryan 👋
 
