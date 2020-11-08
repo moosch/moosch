@@ -2,5 +2,5 @@
 
 ### Hi there, I'm Ryan 👋
 
-I work at a company called Xplor 🚀 making software for educators.
+I work at a company called Aurelius building a mobile app to help people with addiction.
 I love functional programming and I luckily get to spend my days doing React and Elixir mostly.
