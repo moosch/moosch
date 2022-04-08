@@ -16,8 +16,7 @@ I love functional programming, and the original ideas of OOP, I also love playin
 
 I've been writing JavaScript for many years and it's basically a second language to me. It has it's quirks, but you gotta love how fast it is to work with.
 
-TypeScript is my preferred "flavour" of JavaScript, though I also _really_ love [Elm]
-(https://elm-lang.org/) too, just I don't have much application for it lately.
+TypeScript is my preferred "flavour" of JavaScript, though I also _really_ love [Elm](https://elm-lang.org/) too, just I don't have much application for it lately.
 I use TypeScript a lot for defining AWS infrastructure with [CDK](https://aws.amazon.com/cdk/) and writing serverless code.
 
 ### Dart for Flutter
