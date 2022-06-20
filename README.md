@@ -1,8 +1,8 @@
 # Hi there, I'm Ryan 👋
 
-I work at a company called [Lived](https://lived.app) building a mobile app and cloud infrastructure to help people change their relationship with alcohol.
+I work at a company called [A Cloud Guru](https://acloudguru.com/) which is part of [Pluralsight](https://pluralsight.com). If you haven't heard of them they do (among _lots_ of other things) online training to help people become, well, Cloud Gurus.
 
-I love functional programming, and the original ideas of OOP, I also love playing with various languages and building things that have impact.
+I love functional programming and testing out programming languages.
 
 ## Languages
 
