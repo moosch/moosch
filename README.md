@@ -1,10 +1,10 @@
 # Hi there, I'm Ryan 👋
 
-I work at a company called [A Cloud Guru](https://acloudguru.com/) which is part of [Pluralsight](https://pluralsight.com). If you haven't heard of them they do (among _lots_ of other things) online training to help people become, well, Cloud Gurus.
+I work on the [Cloud](https://acloudguru.com/) team at [Pluralsight](https://pluralsight.com). If you haven't heard of them they do (among _lots_ of other things) online training for careers in software and cloud things..
 
-I love functional programming and testing out programming languages.
+In addition to work, love functional programming and testing out programming languages.
 
-## Languages
+## Languages I use
 
 Probably in order of how frequently I use them.
 
@@ -26,7 +26,6 @@ Mostly AWS infrastructure with [CDK](https://aws.amazon.com/cdk/) and writing se
 <div align="center">
 
 ![AWS CDK logo](aws-cdk.png "AWS CDK")
-![PostgreSQL logo](postgresql.png "PostgreSQL")
 
 </div>
 
